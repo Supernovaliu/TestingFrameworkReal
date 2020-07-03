@@ -1,0 +1,30 @@
+2020-06-09 16:26:36,510 - root - INFO - ############################### START ###############################
+2020-06-09 16:26:39,239 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.727806329727173 seconds
+2020-06-09 16:26:39,455 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.21442675590515137 seconds
+2020-06-09 16:26:40,044 - root - INFO - SUCCESS    Navigated to http://localhost/admin/login, Spend 0.5888395309448242 seconds
+2020-06-09 16:26:40,185 - root - INFO - SUCCESS    Typed element: <name->name> content: superadmin, Spend 0.1405947208404541 seconds
+2020-06-09 16:26:40,323 - root - INFO - SUCCESS    Typed element: <name->pass> content: 123456, Spend 0.13464045524597168 seconds
+2020-06-09 16:26:40,898 - root - INFO - SUCCESS    Clicked element: <name->submit>, Spend 0.5720551013946533 seconds
+2020-06-09 16:26:42,905 - root - INFO - SUCCESS    Get current window title, Spend 0.005985736846923828 seconds
+2020-06-09 16:26:45,218 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.312007188796997 seconds
+2020-06-09 16:26:45,221 - root - INFO - ###############################  End  ###############################
+2020-06-09 16:26:45,223 - root - INFO - ############################### START ###############################
+2020-06-09 16:26:47,133 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9089114665985107 seconds
+2020-06-09 16:26:47,302 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1671285629272461 seconds
+2020-06-09 16:26:47,930 - root - INFO - SUCCESS    Navigated to http://localhost/admin/login, Spend 0.6282644271850586 seconds
+2020-06-09 16:26:48,006 - root - INFO - SUCCESS    Typed element: <name->name> content: , Spend 0.0747992992401123 seconds
+2020-06-09 16:26:48,077 - root - INFO - SUCCESS    Typed element: <name->pass> content: , Spend 0.0693521499633789 seconds
+2020-06-09 16:26:48,445 - root - INFO - SUCCESS    Clicked element: <name->submit>, Spend 0.3665621280670166 seconds
+2020-06-09 16:26:50,467 - root - INFO - SUCCESS    Get current window title, Spend 0.019989490509033203 seconds
+2020-06-09 16:26:52,686 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2173869609832764 seconds
+2020-06-09 16:26:52,687 - root - INFO - ###############################  End  ###############################
+2020-06-09 16:26:52,688 - root - INFO - ############################### START ###############################
+2020-06-09 16:26:54,489 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.7989330291748047 seconds
+2020-06-09 16:26:54,675 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.18445491790771484 seconds
+2020-06-09 16:26:55,031 - root - INFO - SUCCESS    Navigated to http://localhost/admin/login, Spend 0.35506391525268555 seconds
+2020-06-09 16:26:55,143 - root - INFO - SUCCESS    Typed element: <name->name> content: super, Spend 0.11169910430908203 seconds
+2020-06-09 16:26:55,254 - root - INFO - SUCCESS    Typed element: <name->pass> content: 123456, Spend 0.11121439933776855 seconds
+2020-06-09 16:26:55,541 - root - INFO - SUCCESS    Clicked element: <name->submit>, Spend 0.28523707389831543 seconds
+2020-06-09 16:26:57,562 - root - INFO - SUCCESS    Get current window title, Spend 0.018752336502075195 seconds
+2020-06-09 16:26:59,815 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2516705989837646 seconds
+2020-06-09 16:26:59,817 - root - INFO - ###############################  End  ###############################
